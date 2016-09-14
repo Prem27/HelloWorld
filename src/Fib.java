@@ -9,7 +9,7 @@ public class Fib  {
 ArrayList<Integer> arr = new ArrayList<Integer>();
 		
 		int n,f=0, s=1;
-		for(int i=0;i<=10;i++){
+		for(int i=0;i<10;i++){
 			if(i<=1){
 				n=i;
 			}else{
